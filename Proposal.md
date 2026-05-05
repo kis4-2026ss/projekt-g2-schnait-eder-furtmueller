@@ -16,4 +16,5 @@ Tasks:
 
 ## Teamwork and responsibilities
 Teammitglieder: Sebastian Schnait, Max Eder, Laura Furtmüller
+
 Aufteilung: idk
