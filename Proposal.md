@@ -4,6 +4,18 @@ Ziel des Projekts ist es, herauszufinden, ob eine 100% KI-generierte Dokumentati
 
 Dabei werden 3 Dokumentationen, basierend auf unterschiedlichen Prompts, für jeweils zwei existierende Projekte generiert. Zusätzlich wird dabei getestet, wie die KI mit relativ schlechter Code Qualität und unübersichtlichem Design umgeht, indem einmal ein Projekt mit guter Codequalität verwendet wird und einmal eines mit schlechter.
 
+## Code used
+#### Good Code Example
+Als Beispiel für gute Code Qualität, wird eine in der Java-Uebung erstellte Hausübung aus dem 3.Semester verwendet.
+
+Grund: Da das Projekt von einem der Teammitglieder stammt, ist es leichter festzustellen ob die generierte Dokumentation akkurat ist.
+
+#### Bad Code Example
+Als Beispiel für schlechte Code Qualität, wird das folgende, auf GitHub verfügbare, Projekt verwendet, welches den bad-code tag besitzt.
+https://github.com/framaz/The_Game_No_Name 
+
+Grund: Das gefundene Projekt ist einerseits extrem unübersichtlich, mit schlechter Code Qualität, was es der KI erschwären soll eine verständliche Dokumentation zu erstellen und andererseits veraltet (>10 Jahre), wodurch getestet werden kann, wie die KI mit teilweise veraltetem Code umgeht. Zusätzlich besitzt das Projekt mehrere Bugs, was es ermöglicht zu testen, wie die KI mit einem nicht funktionierendem Projekt umgeht und ob sie eventuell, als Teil der Dokumentation, auch die Bugs richtig dokumentiert.
+
 ## Project plan
 
 Es soll gegenübergestellt werden, ob bzw. welchen Unterschied es macht, welchen Prompt man für die Generierung der Projekt-Dokumentation verwendet.
@@ -46,7 +58,6 @@ Tasks:
     Schreib eine Dokumentation zu diesem Projekt in ein File namens documentation.md.
 
 
-## Teamwork and responsibilities
+## Team
 Teammitglieder: Sebastian Schnait, Max Eder, Laura Furtmüller
 
-Aufteilung: idk
