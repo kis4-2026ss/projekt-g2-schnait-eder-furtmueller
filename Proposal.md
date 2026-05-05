@@ -2,7 +2,7 @@
 ## Goal of the Project
 Ziel des Projekts ist es, herauszufinden, ob eine 100% KI-generierte Dokumentation für eine vorhandene Code-Basis brauchbar ist.
 
-Dabei werden 3 Dokumentationen, basierend aud unterschiedlichen Prompts, für jeweils zwei existierende Projekte generiert. Zusätzlich wird dabei getestet, wie die KI mit relativ schlechter Code Qualität und unübersichtlichem Design umgeht, indem einmal ein Projekt mit guter Codequalität verwendet wird und einmal eines mit schlechter.
+Dabei werden 3 Dokumentationen, basierend auf unterschiedlichen Prompts, für jeweils zwei existierende Projekte generiert. Zusätzlich wird dabei getestet, wie die KI mit relativ schlechter Code Qualität und unübersichtlichem Design umgeht, indem einmal ein Projekt mit guter Codequalität verwendet wird und einmal eines mit schlechter.
 
 ## Project plan
 
@@ -43,7 +43,7 @@ Tasks:
 
 3.Prompt: (keine genauen Anweisungen)
 
-    Schreib eine Dokumentation zu diesem Projekt.
+    Schreib eine Dokumentation zu diesem Projekt in ein File namens documentation.md.
 
 
 ## Teamwork and responsibilities
