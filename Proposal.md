@@ -1,6 +1,7 @@
 # Proposal
 ## Goal of the Project
 Ziel des Projekts ist es, herauszufinden, ob eine 100% KI-generierte Dokumentation für eine vorhandene Code-Basis brauchbar ist.
+
 *TODO*: definition of brauchbar lol
 
 ## Project plan
